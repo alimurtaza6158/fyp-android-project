@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.131" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/drawable/camera.xml" value="0.142" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/drawable/ic_baseline_notifications_24.xml" value="0.1415" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/drawable/ic_launcher_background.xml" value="0.131" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/drawable/logout.xml" value="0.131" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/drawable/regno.xml" value="0.124" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/drawable/round_button.xml" value="0.1315" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/activity_add_new_std.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/activity_allocate.xml" value="0.18206521739130435" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/activity_attendance_sheet.xml" value="0.25" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/activity_attendance_system.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/activity_dashboard.xml" value="0.2" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/activity_dashboard1.xml" value="0.18206521739130435" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/activity_enrollment.xml" value="0.18206521739130435" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/activity_notification.xml" value="0.18206521739130435" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/activity_parent1.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/activity_slot_setting.xml" value="0.18206521739130435" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/activity_std_atd_review.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/activity_student1.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/activity_student_check.xml" value="0.1" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/activity_student_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/activity_teacher1.xml" value="0.22" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/attendance_sheet.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/attendance_system.xml" value="0.159375" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/capturing_image.xml" value="0.20108695652173914" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/childofparent.xml" value="0.203125" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/content_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/dashboard1.xml" value="0.18206521739130435" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/drawer.xml" value="0.1" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/drawer_header.xml" value="0.25" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/enrolled_course_of_child.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/fragment_gallery.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/fragment_slideshow.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/header_of_drawer.xml" value="0.18" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/hello.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/listitems.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/login.xml" value="0.22" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/nav_header_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/parent1.xml" value="0.1640625" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/parent2.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/std_atd_detail.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/std_atd_review.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/std_atd_status.xml" value="0.203125" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/student1.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/students_list.xml" value="0.16" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/teacher1.xml" value="0.18" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/layout/time_table_cell.xml" value="0.33" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/menu/drawer.xml" value="0.13802083333333334" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/menu/drawer_drawer.xml" value="0.21" />
+        <entry key="..\:/Users/Ali Murtaza/StudioProjects/ProjectAttendence/app/src/main/res/menu/drawer_items.xml" value="0.1640625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

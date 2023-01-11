@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20sp"
+    android:background="#ff944d">
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src ="@drawable/logo">
+    </ImageView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="BIIT"
+        android:textSize="40sp"
+        android:textColor="@color/white"
+        android:textStyle="bold">
+
+    </TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="30sp"
+        android:text="ATTENDANCE SYSTEM"
+        android:textSize="15sp"
+        android:textColor="@color/white"
+        android:textStyle="bold">
+
+    </TextView>
+
+</LinearLayout>
